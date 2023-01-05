@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME
+title: SREDevOps.dev
 headless: true
 resources:
     - name: about
