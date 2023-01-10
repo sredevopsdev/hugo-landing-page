@@ -1,0 +1,24 @@
+baseurl: 'https://sredevops.dev'
+DefaultContentLanguage: es
+languageCode: es-ES
+publishdir: public
+canonifyUrls: 'true'
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+title: SREDevOps.dev
+googleAnalytics: ''
+author:
+  name: Nicolás Georger
+  email: info@sredevops.cl
+params:
+  description: Promovemos la cultura SRE/DevOps, con enfoque en Chile y América Latina, a través de facilitar comunidades y contextos de apoyo, orientación y aprendizaje.
+  images: []
+  social:
+    - title: LinkedIn
+      url: 'https://linkedin.com/company/#'
+    - title: GitHub
+      url: 'https://GitHub.com/sredevopsdev'
+    - title: Discord
+      url: 'https://discord.gg/#'
